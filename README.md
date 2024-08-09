@@ -25,14 +25,7 @@ The table below summarizes the key performance metrics across different datasets
 
 ## 📉 Graphical Analysis
 
-This graph shows the accuracy of the model across the different datasets.
-
-### 1. **Data Distribution**
-
-![data_distr](results/data_distrubition.jpg)
-
-Data distribution of
-### 2. **Confusion Matrix**
+### **Confusion Matrix**
 ![Confusion Matrix](results/confussion_matrix.jpg)
 
 The confusion matrix for the Sentiment Analysis dataset. It illustrates the distribution of true positives, true negatives, false positives, and false negatives.
