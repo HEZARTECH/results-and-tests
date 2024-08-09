@@ -30,6 +30,12 @@ The table below summarizes the key performance metrics across different datasets
 
 The confusion matrix for the Sentiment Analysis dataset. It illustrates the distribution of true positives, true negatives, false positives, and false negatives.
 
+### **Metrics per Epochs**
+![Metrics per Epochs](results/metrics_per_epochs.jpg)
+
+The metric values per epochs graph to analyze best epoch value
+
+
 ---
 
 ## Connecting firms with sentiments algorithm
